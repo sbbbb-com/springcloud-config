@@ -1,2 +1,2 @@
 config:
-  info: "master branch,cloud-config/config-test.yml version=1"
+  info: "master https://github.com/sbbbb-com/springcloud-config/edit/master/config-test.yml branch,cloud-config/config-test.yml version=1"
